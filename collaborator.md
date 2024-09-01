@@ -39,15 +39,27 @@ My collaborator - Ma Yin Yin Min Naing
 >> My collaboration with Ma Yin Yin Min Naing is as follows:
 
 git clone https://github.com/yinyinminnaing/git-demo.git
+
 cd git-demo/
+
 ls
+
 cat collaborator.txt
+
 git branch -a
+
 echo "adding a new line by ppnm" >> feature.txt
+
 ls
+
 git status
+
 git add feature.txt
+
 git status
+
 git commit -m "phuephuenyomint commit on sep 1"
+
 git push
+
 clear
