@@ -29,6 +29,6 @@ https://github.com/PPNM/remote-repo.git
 
 (2) Make Your Contribution:   Add a new file or modify an existing file.
 
-If you have any questions or need further instructions, feel free to reach out. Your contributions are greatly appreciated!
+If you have any questions or need further instructions, feel free to reach me out. Your contributions are greatly appreciated!
 
-@ I have added collaborator.md file to the main branch as a collaboration ref. Thank you.
+@ I have added collaboration.md file to the main branch as a collaboration ref. Thank you.
